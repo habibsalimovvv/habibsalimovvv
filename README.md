@@ -19,5 +19,4 @@ Ben bir öğrenciyim ve yapay zeka alanında kendimi geliştirmeye odaklanmış 
 
 ## 📫 İletişim
 - E-posta: totetec.dev@gmail.com
-- LinkedIn: www.linkedin.com/in/
-habibsalimov
+- LinkedIn: www.linkedin.com/in/habibsalimov
